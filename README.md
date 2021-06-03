@@ -1,3 +1,3 @@
 # Algorithms
 
-Basic and Advanced Algorithms
+Basic and Advanced Algorithms in c++
